@@ -2,7 +2,9 @@
 
 goreadme \
   -title="is.Maybe[T]: easy optional struct fields" \
+  -badge-godoc \
   -types \
   -methods \
   -functions \
-  -factories > README.md
+  -factories \
+  github.com/gomodular/is > README.md
